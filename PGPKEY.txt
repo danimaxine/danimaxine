@@ -1,6 +1,5 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: https://keybase.io/download
-Version: Keybase Go 6.0.2 (linux)
+Version: PGPKEY.txt (DaniMaxine)
 
 xsFNBGQs+90BEAClQp6Acv3afzOwbRKNBLEZskjn317igD8GuhMYxkq+nyT8uDRJ
 yz3fF4Lg0vwKqzdkUcy5vcCchvsuI/t+BsCD7KLrgKwjanUJdh/Gnlefumu9RRZ5
